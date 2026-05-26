@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Nikhil 👋
 
-<!--
-**xnikhil7/xnikhil7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning and building with:
 
-Here are some ideas to get you started:
+- Java
+- MERN Stack
+- MySQL
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Building real-world full stack projects
+- Improving backend development skills
+- Learning system design fundamentals
+
+
+## Goals
+
+- Become strong in DSA
+- Build production-level projects
+- Contribute to open source
+- Get internship-ready
+- Improve problem solving skills
+
+## Tech Stack
+
+- Frontend : HTML, CSS, JavaScript, React
+- Backend  : Node.js, Express.js
+- Database : MySQL, MongoDB
+- Learning : DSA, System Design
